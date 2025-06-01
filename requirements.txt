@@ -1,9 +1,9 @@
-keras
-tensorflow
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+keras>=2.8.0
+tensorflow>=2.8.0
+ipywidgets>=7.6.0
 pandas
-numpy
-matplotlib
 seaborn
-scikit-learn
 scipy
-ipywidgets
